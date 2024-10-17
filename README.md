@@ -6,16 +6,12 @@ This project demonstrates the creation of APIs that interact with an Oracle data
 ## Goal
 The main goal of the project is to retrieve and display data from the Oracle database using PL/SQL, and present the information through a frontend web page built with Angular. An example of the displayed data includes employee information such as:
 
-- **FIRST_NAME**
-- **LAST_NAME**
-- **EMAIL**
-- **PHONE_NUMBER**
-- **JOB_ID**
-- **SALARY**
-- **HIRE_DATE**
-- **COMMISSION_PCT**
-- **MANAGER_ID**
-- **DEPARTMENT_ID**
+- **LOCATION_ID**
+- **STREET_ADDRESS**
+- **POSTAL_CODE**
+- **CITY**
+- **STATE_PROVINCE**
+- **COUNTRY_ID**
 
 ## Features
 - Connects to an Oracle database
